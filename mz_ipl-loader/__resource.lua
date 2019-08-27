@@ -23,7 +23,7 @@ if not, see <http://www.gnu.org/licenses/>.
 ]]
 
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
-client_script 'ipl-loader_client.net.dll';
+client_script 'mz_ipl-loader.net.dll';
 
 --Config:
 --	0 = Dekaktiviert 
