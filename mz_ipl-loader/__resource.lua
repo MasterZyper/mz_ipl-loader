@@ -1,10 +1,10 @@
-﻿--[[
+--[[
 MZ-IPL-Loader, controls the Loading of Map-IPL´s in FiveM
 Copyright (C) 27.08.2019  MasterZyper 🐦
 Contact: masterzyper@reloaded-server.de
 
 You like to get a FiveM-Server? 
-Visit ZapHosting: https://zap-hosting.com/a/17444fc14f5749d607b4ca949eaf305ed50c0837
+Visit ZapHosting*: https://zap-hosting.com/a/17444fc14f5749d607b4ca949eaf305ed50c0837
 
 Support us on Patreon: https://www.patreon.com/gtafivemorg
 
@@ -20,6 +20,9 @@ See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program; 
 if not, see <http://www.gnu.org/licenses/>.
+
+*Affiliate-Link: Euch entstehen keine Kosten oder Nachteile. Kauf über diesen Link erwirtschaftet eine kleine prozentuale Provision für mich.
+
 ]]
 
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
